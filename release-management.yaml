@@ -1,7 +1,7 @@
 release:
 - branch: openEuler-21.09
   community:
-  - src-openeuler
+  - src-openeuler22
   frozen: false
   owner:
   - solarhu
